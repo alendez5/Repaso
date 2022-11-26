@@ -12,5 +12,9 @@ public class Suma {
 	}
 	
 	
+	public int resultado() {
+		return x + y;
+	}
+	
 
 }
